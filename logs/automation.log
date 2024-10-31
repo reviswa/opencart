@@ -1,0 +1,27 @@
+2024-10-30 13:20:39 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-10-30 13:20:40 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-10-30 13:20:40 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-10-30 13:20:40 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-10-30 13:20:41 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-10-30 13:20:41 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-10-30 13:21:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\vijay\OneDrive\Desktop\SeleniumPractice\seleniumPracticecodes\opencart\testng.xml
+
+2024-10-30 13:22:01 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-10-30 13:22:01 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-10-30 13:22:01 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-10-30 13:22:01 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-10-30 13:22:02 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-10-30 13:22:02 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-10-30 13:31:27 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-10-30 13:31:28 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-10-30 13:31:28 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-10-30 13:31:28 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-10-30 13:31:29 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-10-30 13:31:29 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-10-30 13:37:52 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-10-30 13:37:53 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-10-30 13:37:53 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-10-30 13:37:53 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-10-30 13:37:54 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-10-30 13:37:54 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****

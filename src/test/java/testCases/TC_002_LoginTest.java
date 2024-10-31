@@ -31,7 +31,8 @@ public class TC_002_LoginTest extends BaseClass
 		lp.setEmail(prop.getProperty("email"));
 		lp.setPassword(prop.getProperty("password"));
 		lp.clickLogin(); //Login button
-		logger.info("clicked on ligin button..");
+		logger.info("clicked on login button..");
+		logger.info("logged in.");
 		
 		//My Account Page
 		MyAccountPage macc=new MyAccountPage(driver);
